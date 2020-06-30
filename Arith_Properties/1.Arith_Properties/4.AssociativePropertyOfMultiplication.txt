@@ -3,7 +3,7 @@ Q. 4 x 5 x 2
     (4x5) x 2
         Answer 20 x 2 = 40
 
-**************** Using Assocoate Property to simplify multiplication
+**************** Using Associate Property to simplify multiplication
 Q. 5 x 18
     18 = 2 x 9
         (5 x 2) 9 = 90
