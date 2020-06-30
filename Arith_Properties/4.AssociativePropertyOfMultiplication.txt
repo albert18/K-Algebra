@@ -1,7 +1,15 @@
 **************** Multiply parenthesis first
 Q. 4 x 5 x 2
--(4x5) x 2
-    20 x 2 = 40
+    (4x5) x 2
+        Answer 20 x 2 = 40
 
-****************
+**************** Using Assocoate Property to simplify multiplication
+Q. 5 x 18
+    18 = 2 x 9
+        (5 x 2) 9 = 90
+
+Q1. 3 x 21
+    21 = 3 x 7
+        (3 x 3) x 7 = 63
+
 ****************
