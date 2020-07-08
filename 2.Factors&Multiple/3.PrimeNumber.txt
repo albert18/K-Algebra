@@ -21,7 +21,12 @@
 7 - Prime
 1 * 7
 
-**************************
+************************** Determine Whether the following numbers are prime, composite or others
+If it has more divisible its called COMPOSITE
+
+For prime follow step above
+
+
 **************************
 **************************
 **************************
