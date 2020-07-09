@@ -1,0 +1,12 @@
+******************************************* Least common multiple
+Q. What the least common of 18 and 12?
+
+18 = 2 * 3 * 3
+12 = 2 * 2 * 3
+
+2 * 2 * 3 * 3 = 36
+
+
+******************************************* Least common multiple: Repeating factors
+******************************************* Least common multiple of three numbers
+*******************************************
